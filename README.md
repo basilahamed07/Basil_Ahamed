@@ -87,6 +87,7 @@ Hobbies: Gaming,watching anime,coding while I am listening music
         <a href="https://github.com/ryo-ma/github-profile-trophy">
           <div align="center">
             <img width="100%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=basilahamed07&theme=merko&row=4&column=10">
+              <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basilahamed07&theme=merko&exclude=10">
 <!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%"> -->
             </div>
         </a>
